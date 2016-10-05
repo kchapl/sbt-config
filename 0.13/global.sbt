@@ -1,5 +1,3 @@
-net.virtualvoid.sbt.graph.Plugin.graphSettings
-
 addCompilerPlugin("org.psywerx.hairyfotr" %% "linter" % "0.1.15")
 
 scalacOptions ++= Seq(
